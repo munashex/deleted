@@ -6,3 +6,5 @@ if(!name_) {
 }else {
     console.log(name_)
 }
+
+let feature_a = "my name is feature_a"
